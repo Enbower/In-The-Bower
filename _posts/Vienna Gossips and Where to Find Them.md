@@ -7,8 +7,8 @@ categories: Vienna Gossips and Where to Find Them
 tags: [Mozart L'opera Rock, Salieri/Mozart] 
 comments: true
 ---
- 
-  
+#
+# 
 *警告：本文摘录自100%纯造谣的八卦小报《维也纳绯闻在哪里》。
 
 *警告：太多警告。如果您具有八卦小报撰稿人一般珍贵的混乱邪恶精神，建议跳过警告不看；如果您不具有，建议跳过全文不看。本文的两位撰稿人对阅读本文的一切后果均不负责。
