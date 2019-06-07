@@ -5,9 +5,9 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: In-The-Bower
+name: InTheBower
 # 描述/签名
-description: 流亡地/位于月球表面
+description: 流亡地
 
 #
 # 下面的设定都是可选的
@@ -56,18 +56,18 @@ footer-links:
 footer-text: Copyright (c) 2019 来自中世界
 
 # 输入Disqus shortname，即可添加评论区，细节可阅读文档。
-disqus: loffer #shortname
+disqus: in-the-bower #shortname
 
 # 输入Google Analytics web tracking code
 google_analytics:
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
+url: https://enbower.github.io/InTheBower/
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl: /InTheBower
 
 
 #
