@@ -37,7 +37,7 @@ paginate: 8
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
   weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  rss: #随便填点啥RSS就能用了
+  rss: ok#随便填点啥RSS就能用了
  
 # 站点页脚的文字
 footer-text: Copyright (c) 2019 来自中世界
