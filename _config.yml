@@ -43,7 +43,7 @@ footer-links:
 footer-text: Copyright (c) 2019 来自中世界
 
 # 输入Disqus shortname，即可添加评论区，细节可阅读文档。
-disqus:  #shortname
+disqus: in-the-bower #shortname
 
 # 输入Google Analytics web tracking code
 google_analytics:
