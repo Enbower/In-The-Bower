@@ -46,7 +46,7 @@ footer-links:
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
-  rss: #随便填点啥RSS就能用了
+  rss: ok#随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
   twitter: # https://www.twitter.com/<your_twitter_username> 
@@ -67,7 +67,7 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl: /In-The-Bower
 
 
 #
